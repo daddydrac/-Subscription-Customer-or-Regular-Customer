@@ -1,6 +1,6 @@
 ## Customer behavior predictions: Subscription based customer or regular customer?
 
-ML with TensorFlow: This is valuable to companies like Pandora or Amazon that offer free and monthly/yearly subscreiptions to services and deliveries.
+ML with TensorFlow: This is valuable to companies like Pandora or Amazon that offer free and monthly/yearly subscriptions to services and deliveries.
 
 ### Highlights 
 
