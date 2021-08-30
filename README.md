@@ -17,6 +17,4 @@ ML with TensorFlow: This is valuable to companies like Dollar Shave Club, Spotif
 ### Need help integrating this machine learning project into your current business systems?
 If Machine Learning for your customers is important to you or your business, please [get in touch](https://www.linkedin.com/in/computer-vision-engineer/).
 
-### Contact
 
-Email: joehoeller@gmail.com
